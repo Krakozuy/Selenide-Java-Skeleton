@@ -1,1 +1,3 @@
-# Selenide-Java-Skeleton
+# fast-games-autotests
+./gradlew test - запустить
+
