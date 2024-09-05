@@ -1,5 +1,3 @@
-package com.sportlevel.fastgamesautotests;
-
 import com.codeborne.selenide.logevents.SelenideLogger;
 import helpers.Driver;
 import io.qameta.allure.selenide.AllureSelenide;
